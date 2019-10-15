@@ -1,2 +1,2 @@
 # DOMM-Development
-Repository for DOMM wrangling, API, other programming scripts
+Repository for DOMM wrangling, API, and other programming scripts
